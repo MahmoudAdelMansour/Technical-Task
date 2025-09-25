@@ -1,4 +1,4 @@
-# Notification System - Factory Method Pattern Review & Implementation
+# Factory Method Pattern Review & Implementation
 
 ## Critical Issues with Current Implementation
 
